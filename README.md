@@ -6,8 +6,13 @@ This project leverages ElasticNet Regression to predict house prices by combinin
 
 Features & Technologies Used
 
+
 ElasticNet Regression Model for balanced feature selection and regularization.
+
 Feature Engineering using imputation, encoding, and scaling.
+
 EDA with visualizations to understand feature relationships.
+
 Model Evaluation using RMSE, R² Score, and cross-validation.
+
 Technologies: Python, Pandas, NumPy, Scikit-learn (ElasticNet, Ridge, Lasso), Matplotlib, Seaborn.
